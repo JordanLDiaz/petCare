@@ -1,0 +1,8 @@
+header,
+main {
+  padding: 0 80px;
+}
+
+.border-bottom {
+  border-bottom: 2px solid black;
+}
